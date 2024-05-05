@@ -158,7 +158,12 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Nader Albaire - [Github](https://github.com/Nader-albaire) / [Twitter](https://twitter.com/lil_cobie)
 
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
+
+Conclusion
+
+In summary, the console segment of the AirBnB project at Holberton School serves as the foundational piece for managing objects within the AirBnB website clone, HBnB. With functionalities ranging from creating, retrieving, updating, and destroying objects, the command interpreter facilitates seamless interaction with the application. Supported by a robust environment on Ubuntu 14.04 LTS and Python 3.4.3, installation and usage are straightforward, allowing users to dive into the project effortlessly. Moreover, thorough documentation and unit tests ensure the reliability and maintainability of the codebase. With a dedicated team behind its development, the AirBnB project demonstrates a commitment to excellence and collaboration within the software development community.
